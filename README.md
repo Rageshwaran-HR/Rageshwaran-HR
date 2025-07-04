@@ -2,7 +2,10 @@
 	<img src="https://komarev.com/ghpvc/?username=Rageshwaran-HR&style=plastic&color=blueviolet" alt="Profile Views"/>
 </p>
 <p align="center">
-	<img src="https://github.com/Rageshwaran-HR/Rageshwaran-HR/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Rageshwaran-HR/Rageshwaran-HR/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/Rageshwaran-HR/Rageshwaran-HR/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</picture>
 </p>
 
 <div align="center">
