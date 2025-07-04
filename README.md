@@ -20,9 +20,11 @@
   <div align="center">
       <img height="200" alt="Avatar photo of Rageshwaran" src="https://avatars.githubusercontent.com/u/118850069?v=4">
   </div>
-  <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=3500&pause=300&color=20FFB4&center=true&vCenter=true&width=500&lines=Hi%2C+I+am+Rageshwaran;Welcome+to+My+GitHub+Profile;Fullstack+Web+Developer;TypeScript+%7C+React+%7C+Next.js;Java+%7C+C+%7C+Node.js;Student+Engineer+and+Tech+Explorer;Automation+and+AI+Fan;Building+Cool+Things+Every+Day" alt="Typing SVG" /></a>
-  </div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=20FFB4&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Rageshwaran;Welcome+to+My+GitHub!;Fullstack+Web+Developer;TypeScript+%7C+React+%7C+Next.js;Java+%7C+C+%7C+Node.js;Student+Engineer;AI%2C+Automation+Fan;Building+Cool+Things" alt="Typing SVG" />
+  </a>
+</div>
 </div>
 
 <details>
@@ -101,18 +103,25 @@
 </details>
 
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>📊 GitHub Stats</summary>
   <br>
-  <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rageshwaran-HR&show_icons=true&theme=merko" alt="GitHub Stats">
-    <br>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rageshwaran-HR&theme=merko&layout=compact" alt="Top Languages">
-    <br>
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Rageshwaran-HR&theme=merko&no-frame=false&no-bg=false&margin-w=4">
-    <br>
-    <img align="center" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko">
-  </p>
+  <div align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rageshwaran-HR&show_icons=true&theme=merko&hide_border=false&hide_title=true&count_private=true" height="160" alt="GitHub Stats" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rageshwaran-HR&theme=merko&layout=compact&hide_border=false&langs_count=6" height="160" alt="Top Languages" />
+
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Rageshwaran-HR&theme=merko&no-frame=false&no-bg=true&margin-w=10" width="100%" alt="GitHub Trophies"/>
+
+  <!-- Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko" height="100" alt="Random Dev Quote"/>
+
+  </div>
 </details>
+
 
 <details>
   <summary>Open Source Projects</summary>
