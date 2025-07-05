@@ -18,7 +18,7 @@
 <br>
 <div>
   <div align="center">
-      <img height="200" alt="Avatar photo of Rageshwaran" src="https://avatars.githubusercontent.com/u/118850069?v=4">
+<img src="https://github.com/Rageshwaran-HR/Rageshwaran-HR/blob/main/aaaa92fd-e2d2-49ea-afb6-41666f4f5a6b.png" alt="Avatar photo of Rageshwaran" width="50%" height="50%" style="border-radius: 10px;" />
   </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
